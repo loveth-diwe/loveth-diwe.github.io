@@ -6,8 +6,9 @@ permalink: /trainings/
 
 # 📚 Trainings & Certifications
 
-- ✅ FreeCodeCamp – Responsive Web Design
-- ✅ Coursera – Python for Everybody
+- ✅ CISCO Network Academy – Cyber Threat Management
+- ✅ Coursera – Introduction to Cloud Computing
+- ✅ Udemy – Python for Everybody
 - ✅ Microsoft Learn – Azure Fundamentals
 - ✅ AXELOS – ITIL®V4 Foundation Certificate in IT Service Management. 
 - ✅ Oracle – Oracle Cloud Overview, HCM and ERP training.
