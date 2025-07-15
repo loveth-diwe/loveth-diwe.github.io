@@ -24,10 +24,11 @@
 title: Loveth Diwe
 email: diweloveth@gmail.com
 description: >- # this means to ignore newlines until "baseurl:" 
+  My personal website – portfolio, resume and professional growth.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://loveth-diwe.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  loveth-diwe
-LinkedIn_username: Loveth Diwe
+linkedIn_username: Loveth Diwe
 # Build settings
 theme: minima
 plugins:
