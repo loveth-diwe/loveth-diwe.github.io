@@ -21,12 +21,12 @@ permalink: /cv/
 09/2022- 10/2023
 Master of Science: Cybersecurity.
 National College of Ireland. Dublin, Ireland.
-Grade: First Class Honours
+First Class Honours
 
 12/2009 - 11/2014
 Bachelor of Technology: Computer Science
 Federal University of Technology Owerri. Owerri, Nigeria.
-Grade: Second Class Upper
+Second Class Upper
 
 ## 💼 Experience
 03/2024 – Till date
@@ -58,4 +58,4 @@ Infrastructure Engineer (Internship)
 Ernst & Young
 
 Download my CV:
-🔗 [GitHub Repo](https://drive.google.com/file/d/1glnxyzr6mgDWdOlGqmlnxyMra3DsIljq/view?usp=sharing)
+🔗 [Link](https://drive.google.com/file/d/1glnxyzr6mgDWdOlGqmlnxyMra3DsIljq/view?usp=sharing)
