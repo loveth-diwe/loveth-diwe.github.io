@@ -4,19 +4,6 @@ title: "CV"
 permalink: /cv/
 ---
 
-## 🧠 Skills
-• Enterprise Applications: Banking Apps, Payment Systems, CRM, Trade Apps, Bespoke Apps.
-• Process Automation: Oracle Jobs, Microsoft SQL, PLSQL, Python, Shell Scripting.
-• Frontend Applications: HTML, CSS, JavaScript.
-• Web Service Integrations: XML, Postman API, Soap UI, Finacle Integrator.
-• Operating Systems: UNIX, Linux, MAC, Windows Servers.
-• Project Requests/ Ticketing Systems: Salesforce, Zendesk, Techonline, Quick fix, Jira.
-• Monitoring tools: Dynatrace, SIEM, Qualys, Burp suite.
-• Cloud Platforms: Azure, AWS, Google Cloud, Oracle Cloud.
-• Databases: Oracle SQL, MySQL, Microsoft SQL Servers, MongoDB, SQLite, Snowflakes.
-• Basic networking knowledge encompassing IP address, TCP/IP, HTTP/S, SFTP, DNS.
-• Database migration and ETL knowledge.
-
 ## 🎓 Education
 09/2022- 10/2023
 Master of Science: Cybersecurity.
@@ -53,7 +40,7 @@ First City Monument Bank
 Software Engineer
 CWG PLC
 
-2013 – 2014
+10/2013 – 04/2014
 Infrastructure Engineer (Internship)
 Ernst & Young
 
