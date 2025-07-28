@@ -10,10 +10,6 @@ permalink: /projects/
 A portfolio site built using Jekyll and GitHub Pages.  
 🔗 [View Project](https://github.com/loveth-diwe/loveth-diwe.github.io)
 
-## Project 2: Python Calculator
-A CLI calculator built with Python.  
-🔗 [GitHub Repo](https://github.com/loveth-diwe/Essentials)
-
 ## Project 3: A website built using Javascript, HTML and Python 
 🔗 [GitHub Repo](https://github.com/loveth-diwe/CodeWizard)
 

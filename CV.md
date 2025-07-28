@@ -42,7 +42,7 @@ CWG PLC
 
 10/2013 – 04/2014
 Infrastructure Engineer (Internship)
-Ernst & Young
+Ernst & Young plc
 
 Download my CV:
 🔗 [Link](https://drive.google.com/file/d/1glnxyzr6mgDWdOlGqmlnxyMra3DsIljq/view?usp=sharing)
