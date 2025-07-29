@@ -44,5 +44,5 @@ CWG PLC
 Infrastructure Engineer (Internship)
 Ernst & Young plc
 
-Download my CV:
+View my CV:
 🔗 [Link](https://drive.google.com/file/d/1glnxyzr6mgDWdOlGqmlnxyMra3DsIljq/view?usp=sharing)
