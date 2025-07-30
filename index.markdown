@@ -8,7 +8,6 @@ title: Home
   <div class="left-side">
     <div class="screen-container">
       <img src="{{ '/assets/img/computer.jpg' | relative_url }}" alt="Computer Screen">
-      <div class="tagline">Solution Provider</div>
     </div>
   </div>
 
